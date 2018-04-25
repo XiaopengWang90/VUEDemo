@@ -1,0 +1,208 @@
+{
+"RECORDS":[
+{
+"ProvinceID":1,
+"ProvinceName":"北京市",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":2,
+"ProvinceName":"天津市",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":3,
+"ProvinceName":"河北省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":4,
+"ProvinceName":"山西省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":5,
+"ProvinceName":"内蒙古自治区",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":6,
+"ProvinceName":"辽宁省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":7,
+"ProvinceName":"吉林省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":8,
+"ProvinceName":"黑龙江省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":9,
+"ProvinceName":"上海市",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":10,
+"ProvinceName":"江苏省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":11,
+"ProvinceName":"浙江省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":12,
+"ProvinceName":"安徽省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":13,
+"ProvinceName":"福建省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":14,
+"ProvinceName":"江西省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":15,
+"ProvinceName":"山东省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":16,
+"ProvinceName":"河南省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":17,
+"ProvinceName":"湖北省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":18,
+"ProvinceName":"湖南省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":19,
+"ProvinceName":"广东省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":20,
+"ProvinceName":"广西壮族自治区",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":21,
+"ProvinceName":"海南省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":22,
+"ProvinceName":"重庆市",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":23,
+"ProvinceName":"四川省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":24,
+"ProvinceName":"贵州省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":25,
+"ProvinceName":"云南省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":26,
+"ProvinceName":"西藏自治区",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":27,
+"ProvinceName":"陕西省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":28,
+"ProvinceName":"甘肃省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":29,
+"ProvinceName":"青海省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":30,
+"ProvinceName":"宁夏回族自治区",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":31,
+"ProvinceName":"新疆维吾尔自治区",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":32,
+"ProvinceName":"香港特别行政区",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":33,
+"ProvinceName":"澳门特别行政区",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+},
+{
+"ProvinceID":34,
+"ProvinceName":"台湾省",
+"DateCreated":"2008-1-19 19:44:30",
+"DateUpdated":"2008-1-19 19:44:30"
+}
+]
+}
